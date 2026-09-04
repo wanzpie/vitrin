@@ -1,0 +1,14 @@
+{
+  "name": "@vitrin/api",
+  "private": true,
+  "scripts": {
+    "dev": "nest start --watch",
+    "build": "nest build",
+    "test": "jest",
+    "test:e2e": "jest --config test/jest-e2e.json",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "db:migrate": "echo 'TODO: configure PostgreSQL migrations'",
+    "db:seed": "echo 'TODO: configure database seed'"
+  }
+}

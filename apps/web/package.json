@@ -1,0 +1,10 @@
+{
+  "name": "@vitrin/web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint",
+    "test": "echo 'TODO: add web tests'"
+  }
+}

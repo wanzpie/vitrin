@@ -1,0 +1,9 @@
+{
+  "name": "@vitrin/worker",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "tsc",
+    "test": "echo 'TODO: add worker tests'"
+  }
+}

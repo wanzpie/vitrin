@@ -1,0 +1,9 @@
+{
+  "name": "@vitrin/block-schema",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'TODO: add schema tests'"
+  }
+}
